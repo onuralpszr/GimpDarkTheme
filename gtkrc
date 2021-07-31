@@ -67,7 +67,8 @@ style "gimp-dark-default-style"
 {
 #  font_name = "Sans 11"
 
-  color["clr1"]  = "#303030"
+# color["clr1"]  = "#303030"
+  color["clr1"]  = "#FFFFFF"
   color["clr2"]  = "#FFFFFF"
   color["clr3"]  = "#C1C1C1"
   color["clr4"]  = "#383838"
